@@ -42,7 +42,7 @@
     "jspdf-autotable": "^3.8.4",
     "jspdf-invoice-template": "^1.4.4",
     "jwt-decode": "^4.0.0",
-    "next": "^15.1.5",
+    "next": "15.1.11",
     "number-to-words": "^1.2.4",
     "prop-types": "^15.8.1",
     "qrcode": "^1.5.4",
